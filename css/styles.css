@@ -270,8 +270,7 @@ img{
 /* Styles Our Portfolio */
 
 .portfolio-manu-item{
-    /* width: calc((100%-48px)/3); */
-    width: calc((100% – 48px) / 3);
+    width: calc((100% - 24px * 2) / 3);
 }
 
 .cont-portfolio{
