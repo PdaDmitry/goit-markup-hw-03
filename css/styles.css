@@ -41,8 +41,6 @@ img{
 
 .page-header{
     border-bottom: 1px solid #e7e9fc;
-    padding-top: 24px;
-    padding-bottom: 24px;
 }
 
 .cont-header{
@@ -86,6 +84,8 @@ img{
     display: flex;
     align-items: center;
     gap: 40px;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .menu-link{
@@ -271,7 +271,7 @@ img{
 
 .portfolio-manu-item{
     /* width: calc((100%-48px)/3); */
-    width: calc((100% – 48px)/3);
+    width: calc((100% – 48px) / 3);
 }
 
 .cont-portfolio{
