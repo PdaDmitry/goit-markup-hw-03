@@ -30,6 +30,7 @@ img{
     padding-left: 15px;
     padding-right: 15px;
     margin: 0 auto;
+    outline: 2px solid red;
 }
 
 .section{
@@ -84,6 +85,9 @@ img{
     display: flex;
     align-items: center;
     gap: 40px;
+}
+
+.menu-item{
     padding-top: 24px;
     padding-bottom: 24px;
 }
