@@ -41,6 +41,8 @@ img{
 
 .page-header{
     border-bottom: 1px solid #e7e9fc;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .cont-header{
@@ -86,16 +88,13 @@ img{
     gap: 40px;
 }
 
-.menu-item{
-    padding: 24px 0;
-}
-
 .menu-link{
     font-size: 16px;    
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--NAVY-BLUE, #2E2F42);
+    padding: 24px 0;
 }
 
 .menu-link:hover,
