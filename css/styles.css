@@ -38,7 +38,7 @@ img{
 }
 
 /* Styles header */
-/* Corrections after verification */
+
 .page-header{
     border-bottom: 1px solid #e7e9fc;
 }
@@ -306,18 +306,13 @@ img{
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: var(--NAVY-BLUE, #2E2F42);
-    /* padding-top: 32px; */
-    /* margin-top: 32px; */
     margin-bottom: 8px;
-    /* padding-left: 16px; */
 }
 
 .portfolio-manu-text{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    /* padding-bottom: 32px; */
-    /* padding-left: 16px; */
 }
 
 /* Styles footer */
